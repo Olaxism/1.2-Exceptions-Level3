@@ -1,4 +1,4 @@
-package Level1;
+package Level1.classes;
 
 public class Producto {
 

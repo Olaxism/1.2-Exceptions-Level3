@@ -1,6 +1,7 @@
-package Level1;
+package Level1.classes;
 
 import Level1.Exceptions.VentaVacia;
+
 import java.util.ArrayList;
 import java.util.List;
 
